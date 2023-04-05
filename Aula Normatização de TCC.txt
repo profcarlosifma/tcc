@@ -15,32 +15,7 @@ COLOQUE SEU NOME AQUI
 
 
 
-
-
-
-
-
-
-
-
-
 LIXO ELETRÔNICO COMPUTACIONAL: Análise do destino, coleta  e reaproveitamento dos resíduos no Município de Açailândia-MA.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -55,7 +30,8 @@ LIXO ELETRÔNICO COMPUTACIONAL: Análise do destino, coleta  e reaproveitamento 
 
 AÇAILÂNDIA-MA
 2018
-________________
+
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA
 DO MARANHÃO - CAMPUS AÇAILÂNDIA
 PROGRAMA INSTITUCIONAL DE BOLSA DE INICIAÇÃO CIENTÍFICA, ENSINO MÉDIO – PIBIC EM CNPQ
@@ -106,7 +82,8 @@ Coorientador:
 
 AÇAILÂNDIA-MA
 2018
-________________
+
+
 ULTIMO NOME, RESTANTE DO NOME
 LIXO ELETRÔNICO COMPUTACIONAL: Análise do destino, coleta e reaproveitamento no Município de Açailândia-MA. [Trabalho de Conclusão de Curso] / NOME COMPLETO. _ 2018.
 XX f.
@@ -151,21 +128,24 @@ Universidade de Viamão
 
 Açailândia - MA
 2018
-________________
+
+
 DEDICATÓRIA
 
 
 
 
 Dedico este trabalho de conclusão de curso ao meu professor, mestre e conselheiro Dr. Irajá Santiago.
-________________
+
+
 AGRADECIMENTOS
 
 
 Agradeço à Organização Não Governamental Crianças do Futuro pelo apoio em oferecer as instalações e permitir que as crianças assistidas pudessem colaborar diretamente no desenvolvimento do trabalho científico e da própria capacitação na utilização dos recursos computacionais propostos.
 
 
-________________
+
+
 
 
 
@@ -226,7 +206,8 @@ ________________
 
 O ser humano deve desenvolver, para todos os seus conflitos, um método que rejeite a vin¬gança, a agressão e a retaliação. A base para esse tipo de método é o amor.
 Martin Luther King
-________________
+
+
 RESUMO
 
 
@@ -236,7 +217,8 @@ As revoluções tecnológicas, assim como o encurtamento do período de vida út
 
 
 Palavras-chave: Lixo eletrônico computacional. Mapeamento. Gestão do lixo.
-________________
+
+
 ABSTRATCT
 
 
@@ -244,27 +226,32 @@ Technological revolutions, as well as the shortening of the useful life of elect
 
 
 Keywords: Computational electronic waste. Mapping. Waste Management.
-________________
+
+
 LISTA DE FIGURAS
 
 
-________________
+
+
 LISTA DE TABELAS
 
 
 
 
-________________
+
+
 LISTA DE GRÁFICOS
 
 
-________________
+
+
 SUMÁRIO
 
 
 
 
-________________
+
+
 
 
 INTRODUÇÃO
@@ -276,7 +263,8 @@ Diante desta situação outro problema que merece destaque é o que é feito com
 A grande maioria dos equipamentos computacionais possuem um tempo de vida muito curto. Chegando a sua obsolescência, algumas vezes em menos de 1 ou 2 anos. Sendo após este prazo, substituídos pelas empresas ou usuários por equipamentos mais novos, com maior poder de processamento ou com novas configurações que se adaptam as novas tecnologias desenvolvidas. Sendo descartados como lixo comum, indo parar em lixões ou aterros sanitários.
 Neste contexto, muito tem sido discutido quanto aos procedimentos e normatizações relacionadas ao descarte e reaproveitamento do e-lixo (lixo eletrônico computacional), no que concerne ao papel das empresas produtoras, dos consumidores e órgãos governamentais quanto a criação de políticas públicas que abordam esta temática.
 Diante do exposto é de fundamental importância ser avaliado a situação do descarte do lixo eletrônico computacional no Município de Açailândia-MA, assim como das normatizações envolvidas e das potencialidades do reaproveitamento e reutilização do lixo.
-________________
+
+
 JUSTIFICATIVA
 
 
@@ -286,7 +274,8 @@ O descarte desta modalidade de lixo, gerado pelos setores de informática em det
 O presente estudo possui como objetivo básico avaliar a situação atual da produção, coleta e reaproveitamento do lixo eletrônico computacional no município de Açailândia-MA, destacando a relevância da temática de conservação do meio ambiente e reaproveitamento do e-lixo no município em questão.
 
 
-________________
+
+
 OBJETIVOS
 Geral
 
@@ -300,7 +289,8 @@ Específicos
 * Investigar as condições e os principais componentes computacionais encontrados;
 * Criar um mapa conceitual do descarte/reaproveitamento do lixo eletrônico computacional no município;
 * Propor a implementação de um modelo de gestão e reaproveitamento do lixo eletrônico computacional pelos alunos do IFMA-Campus Açailândia;
-________________
+
+
 Referencial Teórico
 Lixo Eletrônico
  Entre os resíduos sólidos urbanos produzidos no Brasil e no Mundo há um tipo específico de lixo que se destaca tanto pela elevada capacidade de contaminação do meio ambiente, como pelo poder de reutilização de recursos naturais. Estes resíduos encontrados em equipamentos elétricos e eletrônicos ao fim de seu ciclo de vida, conhecidos também como resíduos tecnológicos, são principalmente encontrados em dispositivos como: televisores, rádios, telefones, celulares, eletrodomésticos portáteis, todos os equipamentos de microinformática e eletrônicos.
@@ -308,7 +298,8 @@ Lixo Eletrônico
 
 
 
-________________
+
+
 METODOLOGIA
 Delineamento
 A presente pesquisa de caráter exploratório visa analisar a situação do lixo eletrônico computacional no Município de Açailândia-MA, por intermédio de análise quanti-qualitativa através da utilização de questionário de pesquisa.
@@ -332,13 +323,15 @@ Análise e Discussão dos Dados
 Os dados obtidos no trabalho de campo serão armazenados em bancos de dados construídos com essa finalidade para analisar e estabelecer o perfil do destino e reutilização do lixo eletrônico computacional.
 
 
-________________
+
+
 CRONOGRAMA
 
 
 
 
-________________
+
+
 REFERÊNCIAS
 
 
@@ -367,9 +360,11 @@ REZENDE, H. G., FERREIRA, J. S., CELINSKI, T. M., CELINSKI, V. G. MUSEU DA COMPU
 
 
 
-________________
+
+
 APÊNDICES
 
 
-________________
+
+
 ANEXOS
